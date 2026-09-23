@@ -1,0 +1,6 @@
+{
+  "name": "WaveCast Live Radio PWA",
+  "description": "Progressive Web App for live radio broadcasting and streaming with simple playback interface and background audio support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
